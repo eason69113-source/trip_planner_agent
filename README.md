@@ -1,6 +1,8 @@
 # AI_Trip_Planner
 基于langchain1.1版本和高德mcp server的多智能体agent旅游助手
 
+这是一个入门级的agent项目，非常适合新手来了解agent和mcp的原理及应用，并且代码非常简洁，对于刚入门的新手很友好
+
 # AI旅行助手（AI Trip Planner）
 
 一个基于 **LangChain + FastAPI + 高德地图API** 的智能旅行行程规划系统。
