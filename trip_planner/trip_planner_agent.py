@@ -1,7 +1,7 @@
 import json
 from schemas import TripRequest, TripPlan
-from trip_planner_agent.my_llm import llm1
-from trip_planner_agent.env_utils import *
+from trip_planner.my_llm import llm1
+from trip_planner.env_utils import *
 from langchain_mcp_adapters.client import MultiServerMCPClient
 from langchain.agents import create_agent
 import asyncio
@@ -299,4 +299,5 @@ async def main():
 if __name__ == "__main__":
     """测试多智能体系统"""
     asyncio.run(main())
+
 
