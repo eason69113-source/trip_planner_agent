@@ -1,7 +1,7 @@
 # 🧳 AI 旅行助手（AI Trip Planner）
 
 **这是一个入门级的agent项目，非常适合新手来了解agent和mcp的原理及应用，并且代码非常简洁，对于刚入门的新手很友好**
-> 基于 LangChain1.2 + FastAPI + 高德地图 MCP Server 的多智能体行程规划系统  
+> 基于 LangChain1.1 + FastAPI + 高德地图 MCP Server 的多智能体行程规划系统  
 > 输入目的地 + 日期，30 秒生成「可落地」的详细旅行计划（景点/酒店/天气/预算）
 
 <img width="1504" height="1170" alt="image" src="https://github.com/user-attachments/assets/40b3bd94-c354-4fbb-9bbd-a5a0396e9ec7" />
